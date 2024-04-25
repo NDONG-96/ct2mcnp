@@ -17,6 +17,7 @@ Load the `scan.py` and `ct2mcnp.py` files into your directory (`/home/your_path_
 from ct2mcnp import Ct2mcnp
 
 path1 = "/home/examples/Patient/Abdomen/"
+
 path2 = "/home/mcnp/mcnp.m"
 
 transX = 0
