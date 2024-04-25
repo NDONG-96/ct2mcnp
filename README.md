@@ -6,7 +6,7 @@ Load the `scan.py` and `ct2mcnp.py` files into your directory (`/home/your_path_
 
 # Compilation
 
-1) Import the `ct2mcnp` library.
+1) Import the `Ct2mcnp` library.
 2) Define your DICOM CT path in the variable `path1`.
 3) Define your output MCNP file in `path2`.
 4) Define the position of your CT matrix in the MCNP geometry by `transX`, `transY`, and `transZ`.
