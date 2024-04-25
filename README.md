@@ -23,7 +23,9 @@ path1 = "/home/examples/Patient/Abdomen/"
 path2 = "/home/mcnp/mcnp.m"
 
 transX = 0
+
 transY = 0
+
 transZ = 0
 
 Ct2mcnp(path1, path2, transX, transY, transZ).cell_card()
