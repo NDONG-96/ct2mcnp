@@ -29,7 +29,9 @@ transY = 0
 transZ = 0
 
 Ct2mcnp(path1, path2, transX, transY, transZ).cell_card()
+
 ![Ct2mcnp](Abdomen_mcnp.png)
+
 # Update
 You can update the `ct2mcnp.py` file by defining your own materials and density intervals specific to your scanner.
 
