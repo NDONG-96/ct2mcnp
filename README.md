@@ -8,8 +8,9 @@ Load the `scan.py` and `ct2mcnp.py` files into your directory (`/home/your_path_
 
 1) Import the `Ct2mcnp` library.
 2) Define your DICOM CT path in the variable `path1`.
-3) Define your output MCNP file in `path2`.
-4) Define the position of your CT matrix in the MCNP geometry by `transX`, `transY`, and `transZ`.
+   The names of DICOM CT files must begin with CT (e.g., CT_myct.dcm) and do not need to be sorted.
+4) Define your output MCNP file in `path2`.
+5) Define the position of your CT matrix in the MCNP geometry by `transX`, `transY`, and `transZ`.
    `transX`, `transY`, and `transZ` represent the displacement of the corners of the CTs cube.
 
 # Example
