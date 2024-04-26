@@ -20,6 +20,8 @@ from ct2mcnp import Ct2mcnp
 
 path1 = "/home/examples/Patient/Abdomen/"
 
+![CT](CT.png)
+
 path2 = "/home/mcnp/mcnp.m"
 
 transX = 0
